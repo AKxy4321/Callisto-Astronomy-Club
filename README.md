@@ -1,6 +1,6 @@
 # Callisto-Astronomy-Club
-Astronomy Club Website for RV Unviersity, Bengaluru
-Designed and made by Aditya Kushal with the help of bootstrap
+* Astronomy Club Website for RV Unviersity, Bengaluru
+* Designed and made by Aditya Kushal with the help of Bootstrap
 
 # Core Members
 * Sunainha Vijay - President
