@@ -1,0 +1,56 @@
+#header{
+    color: white;
+  }
+  #about{
+    color: white;
+    background-color: black;
+  }
+  #facts{
+    color: white;
+    background-color: black;
+  }
+  #services{
+    color: white;
+    background-color: black;
+  }
+  #info{
+    color: white;
+    background-color: black;
+  }
+  #contact{
+    color: white;
+    background-color: black;
+  }
+  body{
+    color: white;
+    background-color: black;
+  }
+  #services .box {
+    height: 460px;
+    line-height: 50px;
+    color: white;
+    background-color: black;
+    width: 540px;
+  }
+  .instagram-button {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #2dc997;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+  }
+  .instagram-button:hover {
+    background-color: #fff;
+    color: #2dc997;
+  }
+  .instagram-button i {
+    margin-right: 5px;
+  }
+  .instagram-button span {
+    display: inline-block;
+    vertical-align: middle;
+  }
